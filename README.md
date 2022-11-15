@@ -1,0 +1,2 @@
+# shelling
+Модель Шеллинга (python)
