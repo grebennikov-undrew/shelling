@@ -1,4 +1,5 @@
 # Модель Шеллинга
+[Решение в Google Colab](https://colab.research.google.com/drive/1_x1tHIbtO-cf-T4T1jN9o1YFNwWVogQV?usp=sharing)
 
 ### Задача
 Дан квадрат N*N.  
